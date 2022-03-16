@@ -8,6 +8,8 @@
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 
 name: Setup CI
+runs-on: self-hosted
+
 on:
   push:
     paths:
