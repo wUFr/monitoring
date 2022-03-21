@@ -10,7 +10,7 @@ sites:
   - name: Komárek Dyzajn
     url: https://komarekdyzajn.cz
   - name: petik - kopalovic.cz
-    url: kopalovic.cz
+    url: https://kopalovic.cz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
