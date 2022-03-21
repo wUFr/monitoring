@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 888,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 781,
+    "timeDay": 855,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 547,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "time": 649,
+    "timeDay": 540,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,38 @@
     "icon": "https://favicons.githubusercontent.com/komarekdyzajn.cz",
     "slug": "komarek-dyzajn",
     "status": "down",
-    "uptime": "2.11%",
-    "uptimeDay": "2.11%",
-    "uptimeWeek": "2.11%",
-    "uptimeMonth": "2.11%",
-    "uptimeYear": "2.11%",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-21": 12
+      "2022-03-21": 38
+    }
+  },
+  {
+    "name": "petik - kopalovic.cz",
+    "url": "https://kopalovic.cz",
+    "icon": "https://favicons.githubusercontent.com/kopalovic.cz",
+    "slug": "petik-kopalovic-cz",
+    "status": "down",
+    "uptime": "40.75%",
+    "uptimeDay": "40.75%",
+    "uptimeWeek": "40.75%",
+    "uptimeMonth": "40.75%",
+    "uptimeYear": "40.75%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-21": 0
     }
   }
 ]
