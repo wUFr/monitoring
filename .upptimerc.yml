@@ -9,8 +9,6 @@ sites:
     url: https://dermacol.mx
   - name: Komárek Dyzajn
     url: https://komarekdyzajn.cz
-  - name: Kopalovic Uzenářství
-    url: https://kopalovic.cz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
