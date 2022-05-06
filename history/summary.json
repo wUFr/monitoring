@@ -22,19 +22,19 @@
     "url": "https://dermacol.mx",
     "icon": "https://favicons.githubusercontent.com/dermacol.mx",
     "slug": "dermacol-mx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 699,
-    "timeWeek": 603,
-    "timeMonth": 588,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 628,
+    "timeDay": 774,
+    "timeWeek": 634,
+    "timeMonth": 596,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 4
     }
   },
   {
