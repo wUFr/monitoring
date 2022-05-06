@@ -22,7 +22,7 @@
     "url": "https://dermacol.mx",
     "icon": "https://favicons.githubusercontent.com/dermacol.mx",
     "slug": "dermacol-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 603,
     "timeMonth": 588,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "Komárek Dyzajn",
@@ -41,15 +43,15 @@
     "icon": "https://favicons.githubusercontent.com/komarekdyzajn.cz",
     "slug": "komarek-dyzajn",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1073,
     "timeDay": 800,
     "timeWeek": 964,
-    "timeMonth": 1099,
+    "timeMonth": 1068,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2022-04-28": 56,
