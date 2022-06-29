@@ -4,7 +4,7 @@
     "url": "https://www.darksidemovement.cz",
     "icon": "https://favicons.githubusercontent.com/www.darksidemovement.cz",
     "slug": "dark-side-movement",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 766,
     "timeMonth": 731,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "Dermacol MX",
