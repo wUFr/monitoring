@@ -22,7 +22,7 @@
     "url": "https://dermacol.mx",
     "icon": "https://favicons.githubusercontent.com/dermacol.mx",
     "slug": "dermacol-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 730,
     "timeMonth": 749,
     "timeYear": 675,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "Komárek Dyzajn",
