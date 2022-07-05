@@ -22,9 +22,9 @@
     "url": "https://dermacol.mx",
     "icon": "https://favicons.githubusercontent.com/dermacol.mx",
     "slug": "dermacol-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 733,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2022-07-05": 0,
       "2022-07-01": 52
     }
   },
